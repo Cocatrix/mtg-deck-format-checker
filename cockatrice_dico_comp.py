@@ -3,11 +3,11 @@
 	Compare Cockatrice decks (.cod) in Python, to find ban and/or limited cards
 """
 
+import os
 from tkinter import Tk, Button, Label, Entry, Radiobutton, IntVar, filedialog
 from cockatrice_parser import deck_parser # We are going to use parsing functions of that file
 ## Global variables
-cockatrice_path = 'C:/Users/R/AppData/Local/Cockatrice/Cockatrice/decks'
-
+cockatrice_path = './decks'
 dico_formats = {1: " - Vintage", 2: " - Check", 3: " - Pop"}
 nb_formats = len(dico_formats)
 dico_details = {0: "Aucun deck choisi."}
@@ -181,7 +181,6 @@ def check_max_one(label, label_text, num):
 	d_badcards_one = deck_parser(badcards_one)
 
 	# We browse keys and check whether they are in forbidden deck
-	On parcourt les clefs et on voit si elles sont dans le deck interdit
 	s_err = ""
 	for cle in d_mydeck:
 		if cle in d_badcards_one:

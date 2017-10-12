@@ -1,0 +1,1 @@
+python cockatrice_dico_comp.py

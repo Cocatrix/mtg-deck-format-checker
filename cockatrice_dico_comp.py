@@ -39,7 +39,7 @@ def chooseDeckAndCompute():
 		printHeader(mydeck)
 		checkFormats()
 	except:
-		print("Erreur d'ouverture du deck.")
+		print("**Erreur d'ouverture du deck.**")
 		raise "Erreur"
 
 ###########################################################################################################################################

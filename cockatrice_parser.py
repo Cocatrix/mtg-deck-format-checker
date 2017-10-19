@@ -12,7 +12,11 @@ def get_name(line):
 	This function then returns 'Howling Mine' (card name, 6th element)
 	"""
 	splitted = line.split('"')
-	return splitted[5]
+	if(splitted[2] != ' price='):
+		print(splitted[2])
+		return splitted[3]
+	else:
+		return splitted[5]
 
 def get_number(line):
 	"""

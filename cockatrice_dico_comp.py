@@ -126,7 +126,7 @@ def check_no_one(label, label_text, num):
 
 	for j in range(0, num):
 		try:
-			badcards = open(cockatrice_path + "/Banlists/Banlist " + str(j) + ".cod","r")
+			badcards = open("./banlists/banlist_" + str(j) + ".cod","r")
 		except:
 			print("Erreur d'ouverture de la Banlist n°" + str(j))
 			pass
@@ -169,7 +169,7 @@ def check_max_one(label, label_text, num):
 	global nb_formats
 
 	try:
-		badcards_one = open(cockatrice_path + "/Banlists/Banlist " + str(num) + ".cod","r")
+		badcards_one = open("./banlists/banlist_" + str(num) + ".cod","r")
 	except:
 		label_text = "Erreur d'ouverture de la Banlist n°" + str(num)
 		print(label_text)

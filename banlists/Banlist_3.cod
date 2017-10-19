@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Banlist 3</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Midnight Banshee"/>
+        <card number="1" price="0" name="Vampire Nighthawk"/>
+        <card number="1" price="0" name="Doom Blade"/>
+        <card number="1" price="0" name="Go for the Throat"/>
+        <card number="1" price="0" name="Terror"/>
+        <card number="1" price="0" name="Malicious Affliction"/>
+        <card number="1" price="0" name="Victim of Night"/>
+        <card number="1" price="0" name="Storage Matrix"/>
+        <card number="1" price="0" name="Archangel of Thune"/>
+        <card number="1" price="0" name="Archetype of Imagination"/>
+        <card number="1" price="0" name="Godhead of Awe"/>
+        <card number="1" price="0" name="Demigod of Revenge"/>
+        <card number="1" price="0" name="Brave the Sands"/>
+        <card number="1" price="0" name="Pharika's Chosen"/>
+        <card number="1" price="0" name="Gnarlwood Dryad"/>
+        <card number="1" price="0" name="Ruthless Ripper"/>
+        <card number="1" price="0" name="Sedge Scorpion"/>
+        <card number="1" price="0" name="Typhoid Rats"/>
+        <card number="1" price="0" name="Nobilis of War"/>
+        <card number="1" price="0" name="Stromkirk Captain"/>
+        <card number="1" price="0" name="Blade Splicer"/>
+        <card number="1" price="0" name="Ajani's Pridemate"/>
+        <card number="1" price="0" name="Abandoned Outpost"/>
+        <card number="1" price="0" name="Academy Ruins"/>
+        <card number="1" price="0" name="Adarkar Wastes"/>
+        <card number="1" price="0" name="Adventurers' Guildhouse"/>
+        <card number="1" price="0" name="Aether Hub"/>
+        <card number="1" price="0" name="Akoum Refuge"/>
+        <card number="1" price="0" name="Alchemist's Refuge"/>
+        <card number="1" price="0" name="Ally Encampment"/>
+        <card number="1" price="0" name="Ancient Amphitheater"/>
+        <card number="1" price="0" name="Ancient Den"/>
+        <card number="1" price="0" name="Ancient Spring"/>
+        <card number="1" price="0" name="Ancient Tomb"/>
+        <card number="1" price="0" name="Ancient Ziggurat"/>
+        <card number="1" price="0" name="An-Havva Township"/>
+        <card number="1" price="0" name="Arcane Lighthouse"/>
+        <card number="1" price="0" name="Arcane Sanctum"/>
+        <card number="1" price="0" name="Archaeological Dig"/>
+        <card number="1" price="0" name="Arctic Flats"/>
+        <card number="1" price="0" name="Arena"/>
+        <card number="1" price="0" name="Arid Mesa"/>
+        <card number="1" price="0" name="Ash Barrens"/>
+        <card number="1" price="0" name="Auntie's Hovel"/>
+        <card number="1" price="0" name="Aysen Abbey"/>
+        <card number="1" price="0" name="Azorius Chancery"/>
+        <card number="1" price="0" name="Azorius Guildgate"/>
+        <card number="1" price="0" name="Bad River"/>
+        <card number="1" price="0" name="Badlands"/>
+        <card number="1" price="0" name="Balduvian Trading Post"/>
+        <card number="1" price="0" name="Bant Panorama"/>
+        <card number="1" price="0" name="Barbarian Ring"/>
+        <card number="1" price="0" name="Barren Moor"/>
+        <card number="1" price="0" name="Battlefield Forge"/>
+        <card number="1" price="0" name="Bayou"/>
+        <card number="1" price="0" name="Bazaar of Baghdad"/>
+        <card number="1" price="0" name="Blackcleave Cliffs"/>
+        <card number="1" price="0" name="Blasted Landscape"/>
+        <card number="1" price="0" name="Blighted Cataract"/>
+        <card number="1" price="0" name="Blighted Gorge"/>
+        <card number="1" price="0" name="Blighted Steppe"/>
+        <card number="1" price="0" name="Blighted Fen"/>
+        <card number="1" price="0" name="Blighted Woodland"/>
+        <card number="1" price="0" name="Blinkmoth Nexus"/>
+        <card number="1" price="0" name="Blinkmoth Well"/>
+        <card number="1" price="0" name="Blood Crypt"/>
+        <card number="1" price="0" name="Bloodfell Caves"/>
+        <card number="1" price="0" name="Bloodstained Mire"/>
+        <card number="1" price="0" name="Blooming Marsh"/>
+        <card number="1" price="0" name="Blossoming Sands"/>
+        <card number="1" price="0" name="Bog Wreckage"/>
+        <card number="1" price="0" name="Bojuka Bog"/>
+        <card number="1" price="0" name="Boreal Shelf"/>
+        <card number="1" price="0" name="Boros Garrison"/>
+        <card number="1" price="0" name="Boros Guildgate"/>
+        <card number="1" price="0" name="Boseiju, Who Shelters All"/>
+        <card number="1" price="0" name="Botanical Sanctum"/>
+        <card number="1" price="0" name="Bottomless Vault"/>
+        <card number="1" price="0" name="Breeding Pool"/>
+        <card number="1" price="0" name="Brushland"/>
+        <card number="1" price="0" name="Buried Ruin"/>
+        <card number="1" price="0" name="Cabal Coffers"/>
+        <card number="1" price="0" name="Cabal Pit"/>
+        <card number="1" price="0" name="Calciform Pools"/>
+        <card number="1" price="0" name="Caldera Lake"/>
+        <card number="1" price="0" name="Canopy Vista"/>
+        <card number="1" price="0" name="Cascade Bluffs"/>
+        <card number="1" price="0" name="Castle Sengir"/>
+        <card number="1" price="0" name="Cathedral of Serra"/>
+        <card number="1" price="0" name="Cathedral of War"/>
+        <card number="1" price="0" name="Cavern of Souls"/>
+        <card number="1" price="0" name="Caves of Koilos"/>
+        <card number="1" price="0" name="Celestial Colonnade"/>
+        <card number="1" price="0" name="Centaur Garden"/>
+        <card number="1" price="0" name="Cephalid Coliseum"/>
+        <card number="1" price="0" name="Choked Estuary"/>
+        <card number="1" price="0" name="Cinder Barrens"/>
+        <card number="1" price="0" name="Cinder Glade"/>
+        <card number="1" price="0" name="Cinder Marsh"/>
+        <card number="1" price="0" name="City of Brass"/>
+        <card number="1" price="0" name="City of Shadows"/>
+        <card number="1" price="0" name="City of Traitors"/>
+        <card number="1" price="0" name="Clifftop Retreat"/>
+        <card number="1" price="0" name="Cloudcrest Lake"/>
+        <card number="1" price="0" name="Cloudpost"/>
+        <card number="1" price="0" name="Coastal Tower"/>
+        <card number="1" price="0" name="Command Beacon"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Concealed Courtyard"/>
+        <card number="1" price="0" name="Contested Cliffs"/>
+        <card number="1" price="0" name="Contested War Zone"/>
+        <card number="1" price="0" name="Copperline Gorge"/>
+        <card number="1" price="0" name="Coral Atoll"/>
+        <card number="1" price="0" name="Corrupted Crossroads"/>
+        <card number="1" price="0" name="Creeping Tar Pit"/>
+        <card number="1" price="0" name="Crosis's Catacombs"/>
+        <card number="1" price="0" name="Crucible of the Spirit Dragon"/>
+        <card number="1" price="0" name="Crumbling Necropolis"/>
+        <card number="1" price="0" name="Crumbling Vestige"/>
+        <card number="1" price="0" name="Crypt of Agadeem"/>
+        <card number="1" price="0" name="Crystal Quarry"/>
+        <card number="1" price="0" name="Crystal Vein"/>
+        <card number="1" price="0" name="Dakmor Salvage"/>
+        <card number="1" price="0" name="Darigaaz's Caldera"/>
+        <card number="1" price="0" name="Dark Depths"/>
+        <card number="1" price="0" name="Darkslick Shores"/>
+        <card number="1" price="0" name="Darksteel Citadel"/>
+        <card number="1" price="0" name="Darkwater Catacombs"/>
+        <card number="1" price="0" name="Daru Encampment"/>
+        <card number="1" price="0" name="Desert"/>
+        <card number="1" price="0" name="Deserted Temple"/>
+        <card number="1" price="0" name="Desolate Lighthouse"/>
+        <card number="1" price="0" name="Diamond Valley"/>
+        <card number="1" price="0" name="Dimir Aqueduct"/>
+        <card number="1" price="0" name="Dimir Guildgate"/>
+        <card number="1" price="0" name="Dismal Backwater"/>
+        <card number="1" price="0" name="Dormant Volcano"/>
+        <card number="1" price="0" name="Dragonskull Summit"/>
+        <card number="1" price="0" name="Dread Statuary"/>
+        <card number="1" price="0" name="Dreadship Reef"/>
+        <card number="1" price="0" name="Drifting Meadow"/>
+        <card number="1" price="0" name="Dromar's Cavern"/>
+        <card number="1" price="0" name="Drowned Catacomb"/>
+        <card number="1" price="0" name="Drownyard Temple"/>
+        <card number="1" price="0" name="Dryad Arbor"/>
+        <card number="1" price="0" name="Duskmantle, House of Shadow"/>
+        <card number="1" price="0" name="Dust Bowl"/>
+        <card number="1" price="0" name="Dwarven Hold"/>
+        <card number="1" price="0" name="Dwarven Ruins"/>
+        <card number="1" price="0" name="Ebon Stronghold"/>
+        <card number="1" price="0" name="Eiganjo Castle"/>
+        <card number="1" price="0" name="Eldrazi Temple"/>
+        <card number="1" price="0" name="Elephant Graveyard"/>
+        <card number="1" price="0" name="Elfhame Palace"/>
+        <card number="1" price="0" name="Emeria, the Sky Ruin"/>
+        <card number="1" price="0" name="Encroaching Wastes"/>
+        <card number="1" price="0" name="Esper Panorama"/>
+        <card number="1" price="0" name="Everglades"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Exotic Orchard"/>
+        <card number="1" price="0" name="Eye of Ugin"/>
+        <card number="1" price="0" name="Faerie Conclave"/>
+        <card number="1" price="0" name="Fertile Thicket"/>
+        <card number="1" price="0" name="Fetid Heath"/>
+        <card number="1" price="0" name="Fire-Lit Thicket"/>
+        <card number="1" price="0" name="Flagstones of Trokair"/>
+        <card number="1" price="0" name="Flamekin Village"/>
+        <card number="1" price="0" name="Flood Plain"/>
+        <card number="1" price="0" name="Flooded Grove"/>
+        <card number="1" price="0" name="Flooded Strand"/>
+        <card number="1" price="0" name="Forbidden Orchard"/>
+        <card number="1" price="0" name="Forbidding Watchtower"/>
+        <card number="1" price="0" name="Foreboding Ruins"/>
+        <card number="1" price="0" name="Forgotten Cave"/>
+        <card number="1" price="0" name="Forsaken City"/>
+        <card number="1" price="0" name="Forsaken Sanctuary"/>
+        <card number="1" price="0" name="Fortified Village"/>
+        <card number="1" price="0" name="Foul Orchard"/>
+        <card number="1" price="0" name="Foundry of the Consuls"/>
+        <card number="1" price="0" name="Fountain of Cho"/>
+        <card number="1" price="0" name="Frontier Bivouac"/>
+        <card number="1" price="0" name="Frost Marsh"/>
+        <card number="1" price="0" name="Fungal Reaches"/>
+        <card number="1" price="0" name="Gaea's Cradle"/>
+        <card number="1" price="0" name="Game Trail"/>
+        <card number="1" price="0" name="Gargoyle Castle"/>
+        <card number="1" price="0" name="Gavony Township"/>
+        <card number="1" price="0" name="Geier Reach Sanitarium"/>
+        <card number="1" price="0" name="Gemstone Caverns"/>
+        <card number="1" price="0" name="Gemstone Mine"/>
+        <card number="1" price="0" name="Geothermal Crevice"/>
+        <card number="1" price="0" name="Ghitu Encampment"/>
+        <card number="1" price="0" name="Ghost Quarter"/>
+        <card number="1" price="0" name="Ghost Town"/>
+        <card number="1" price="0" name="Gilt-Leaf Palace"/>
+        <card number="1" price="0" name="Glacial Chasm"/>
+        <card number="1" price="0" name="Glacial Fortress"/>
+        <card number="1" price="0" name="Glimmerpost"/>
+        <card number="1" price="0" name="Glimmervoid"/>
+        <card number="1" price="0" name="Goblin Burrows"/>
+        <card number="1" price="0" name="Godless Shrine"/>
+        <card number="1" price="0" name="Gods' Eye, Gate to the Reikai"/>
+        <card number="1" price="0" name="Golgari Guildgate"/>
+        <card number="1" price="0" name="Golgari Rot Farm"/>
+        <card number="1" price="0" name="Grand Coliseum"/>
+        <card number="1" price="0" name="Grasslands"/>
+        <card number="1" price="0" name="Graven Cairns"/>
+        <card number="1" price="0" name="Graypelt Refuge"/>
+        <card number="1" price="0" name="Great Furnace"/>
+        <card number="1" price="0" name="Griffin Canyon"/>
+        <card number="1" price="0" name="Grim Backwoods"/>
+        <card number="1" price="0" name="Grixis Panorama"/>
+        <card number="1" price="0" name="Grove of the Burnwillows"/>
+        <card number="1" price="0" name="Grove of the Guardian"/>
+        <card number="1" price="0" name="Gruul Guildgate"/>
+        <card number="1" price="0" name="Gruul Turf"/>
+        <card number="1" price="0" name="Halimar Depths"/>
+        <card number="1" price="0" name="Hall of the Bandit Lord"/>
+        <card number="1" price="0" name="Hallowed Fountain"/>
+        <card number="1" price="0" name="Halls of Mist"/>
+        <card number="1" price="0" name="Hammerheim"/>
+        <card number="1" price="0" name="Hanweir Battlements"/>
+        <card number="1" price="0" name="Haunted Fengraf"/>
+        <card number="1" price="0" name="Haven of the Spirit Dragon"/>
+        <card number="1" price="0" name="Havenwood Battleground"/>
+        <card number="1" price="0" name="Heart of Yavimaya"/>
+        <card number="1" price="0" name="Hellion Crucible"/>
+        <card number="1" price="0" name="Henge of Ramos"/>
+        <card number="1" price="0" name="Hickory Woodlot"/>
+        <card number="1" price="0" name="High Market"/>
+        <card number="1" price="0" name="Highland Lake"/>
+        <card number="1" price="0" name="Highland Weald"/>
+        <card number="1" price="0" name="Hinterland Harbor"/>
+        <card number="1" price="0" name="Hissing Quagmire"/>
+        <card number="1" price="0" name="Holdout Settlement"/>
+        <card number="1" price="0" name="Hollow Trees"/>
+        <card number="1" price="0" name="Homeward Path"/>
+        <card number="1" price="0" name="Horizon Canopy"/>
+        <card number="1" price="0" name="Howltooth Hollow"/>
+        <card number="1" price="0" name="Icatian Store"/>
+        <card number="1" price="0" name="Ice Floe"/>
+        <card number="1" price="0" name="Inkmoth Nexus"/>
+        <card number="1" price="0" name="Inspiring Vantage"/>
+        <card number="1" price="0" name="Inventors' Fair"/>
+        <card number="2" price="0" name="Irrigation Ditch"/>
+        <card number="1" price="0" name="Island of Wak-Wak"/>
+        <card number="1" price="0" name="Isolated Chapel"/>
+        <card number="1" price="0" name="Izzet Boilerworks"/>
+        <card number="1" price="0" name="Izzet Guildgate"/>
+        <card number="1" price="0" name="Jund Panorama"/>
+        <card number="1" price="0" name="Jungle Basin"/>
+        <card number="1" price="0" name="Jungle Hollow"/>
+        <card number="1" price="0" name="Jungle Shrine"/>
+        <card number="1" price="0" name="Jwar Isle Refuge"/>
+        <card number="1" price="0" name="Kabira Crossroads"/>
+        <card number="1" price="0" name="Karakas"/>
+        <card number="1" price="0" name="Karoo"/>
+        <card number="1" price="0" name="Karplusan Forest"/>
+        <card number="1" price="0" name="Kazandu Refuge"/>
+        <card number="1" price="0" name="Keldon Megaliths"/>
+        <card number="1" price="0" name="Keldon Necropolis"/>
+        <card number="1" price="0" name="Kessig Wolf Run"/>
+        <card number="1" price="0" name="Khalni Garden"/>
+        <card number="1" price="0" name="Kher Keep"/>
+        <card number="1" price="0" name="Kjeldoran Outpost"/>
+        <card number="1" price="0" name="Kor Haven"/>
+        <card number="1" price="0" name="Koskun Keep"/>
+        <card number="1" price="0" name="Krosan Verge"/>
+        <card number="1" price="0" name="Lake of the Dead"/>
+        <card number="1" price="0" name="Land Cap"/>
+        <card number="1" price="0" name="Lantern-Lit Graveyard"/>
+        <card number="1" price="0" name="Lava Tubes"/>
+        <card number="1" price="0" name="Lavaclaw Reaches"/>
+        <card number="1" price="0" name="Leechridden Swamp"/>
+        <card number="1" price="0" name="Library of Alexandria"/>
+        <card number="1" price="0" name="Llanowar Reborn"/>
+        <card number="1" price="0" name="Llanowar Wastes"/>
+        <card number="1" price="0" name="Lonely Sandbar"/>
+        <card number="1" price="0" name="Looming Spires"/>
+        <card number="1" price="0" name="Lotus Vale"/>
+        <card number="1" price="0" name="Lumbering Falls"/>
+        <card number="1" price="0" name="Madblind Mountain"/>
+        <card number="1" price="0" name="Mage-Ring Network"/>
+        <card number="1" price="0" name="Magosi, the Waterveil"/>
+        <card number="1" price="0" name="Mana Confluence"/>
+        <card number="1" price="0" name="Marsh Flats"/>
+        <card number="1" price="0" name="Maze of Ith"/>
+        <card number="1" price="0" name="Maze of Shadows"/>
+        <card number="1" price="0" name="Maze's End"/>
+        <card number="1" price="0" name="Meandering River"/>
+        <card number="1" price="0" name="Mercadian Bazaar"/>
+        <card number="1" price="0" name="Meteor Crater"/>
+        <card number="1" price="0" name="Mikokoro, Center of the Sea"/>
+        <card number="1" price="0" name="Minamo, School at Water's Edge"/>
+        <card number="1" price="0" name="Miren, the Moaning Well"/>
+        <card number="1" price="0" name="Mirrodin's Core"/>
+        <card number="1" price="0" name="Mirrorpool"/>
+        <card number="1" price="0" name="Mishra's Factory"/>
+        <card number="1" price="0" name="Mishra's Toy Workshop"/>
+        <card number="1" price="0" name="Mishra's Workshop"/>
+        <card number="1" price="0" name="Mistveil Plains"/>
+        <card number="1" price="0" name="Misty Rainforest"/>
+        <card number="1" price="0" name="Mogg Hollows"/>
+        <card number="1" price="0" name="Molten Slagheap"/>
+        <card number="1" price="0" name="Moonring Island"/>
+        <card number="1" price="0" name="Moorland Haunt"/>
+        <card number="1" price="0" name="Mortuary Mire"/>
+        <card number="1" price="0" name="Mossfire Valley"/>
+        <card number="1" price="0" name="Mosswort Bridge"/>
+        <card number="1" price="0" name="Mountain Stronghold"/>
+        <card number="1" price="0" name="Mountain Valley"/>
+        <card number="1" price="0" name="Mouth of Ronom"/>
+        <card number="1" price="0" name="Murmuring Bosk"/>
+        <card number="1" price="0" name="Mutavault"/>
+        <card number="1" price="0" name="Myriad Landscape"/>
+        <card number="1" price="0" name="Mystic Gate"/>
+        <card number="1" price="0" name="Mystic Monastery"/>
+        <card number="1" price="0" name="Mystifying Maze"/>
+        <card number="1" price="0" name="Nantuko Monastery"/>
+        <card number="1" price="0" name="Naya Panorama"/>
+        <card number="1" price="0" name="Needle Spires"/>
+        <card number="1" price="0" name="Nephalia Academy"/>
+        <card number="1" price="0" name="Nephalia Drownyard"/>
+        <card number="1" price="0" name="New Benalia"/>
+        <card number="1" price="0" name="Nimbus Maze"/>
+        <card number="1" price="0" name="Nivix, Aerie of the Firemind"/>
+        <card number="1" price="0" name="Nomad Outpost"/>
+        <card number="1" price="0" name="Nomad Stadium"/>
+        <card number="1" price="0" name="Novijen, Heart of Progress"/>
+        <card number="1" price="0" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" price="0" name="Oasis"/>
+        <card number="1" price="0" name="Oboro, Palace in the Clouds"/>
+        <card number="1" price="0" name="Okina, Temple to the Grandfathers"/>
+        <card number="1" price="0" name="Opal Palace"/>
+        <card number="1" price="0" name="Opulent Palace"/>
+        <card number="1" price="0" name="Oran-Rief, the Vastwood"/>
+        <card number="1" price="0" name="Orzhov Basilica"/>
+        <card number="1" price="0" name="Orzhov Guildgate"/>
+        <card number="1" price="0" name="Orzhova, the Church of Deals"/>
+        <card number="1" price="0" name="Overgrown Tomb"/>
+        <card number="1" price="0" name="Paliano, the High City"/>
+        <card number="1" price="0" name="Peat Bog"/>
+        <card number="1" price="0" name="Pendelhaven"/>
+        <card number="1" price="0" name="Petrified Field"/>
+        <card number="1" price="0" name="Phyrexian Tower"/>
+        <card number="1" price="0" name="Phyrexia's Core"/>
+        <card number="1" price="0" name="Pillar of the Paruns"/>
+        <card number="1" price="0" name="Pine Barrens"/>
+        <card number="1" price="0" name="Pinecrest Ridge"/>
+        <card number="1" price="0" name="Piranha Marsh"/>
+        <card number="1" price="0" name="Plateau"/>
+        <card number="1" price="0" name="Polluted Delta"/>
+        <card number="1" price="0" name="Polluted Mire"/>
+        <card number="1" price="0" name="Port Town"/>
+        <card number="1" price="0" name="Prahv, Spires of Order"/>
+        <card number="1" price="0" name="Prairie Stream"/>
+        <card number="1" price="0" name="Primal Beyond"/>
+        <card number="1" price="0" name="Quicksand"/>
+        <card number="1" price="0" name="Radiant Fountain"/>
+        <card number="1" price="0" name="Raging Ravine"/>
+        <card number="1" price="0" name="Rainbow Vale"/>
+        <card number="1" price="0" name="Rakdos Carnarium"/>
+        <card number="1" price="0" name="Rakdos Guildgate"/>
+        <card number="1" price="0" name="Rath's Edge"/>
+        <card number="1" price="0" name="Ravaged Highlands"/>
+        <card number="1" price="0" name="Razorverge Thicket"/>
+        <card number="1" price="0" name="Reflecting Pool"/>
+        <card number="1" price="0" name="Reliquary Tower"/>
+        <card number="1" price="0" name="Remote Farm"/>
+        <card number="1" price="0" name="Remote Isle"/>
+        <card number="1" price="0" name="Rhystic Cave"/>
+        <card number="1" price="0" name="Riftstone Portal"/>
+        <card number="1" price="0" name="Riptide Laboratory"/>
+        <card number="1" price="0" name="Rishadan Port"/>
+        <card number="1" price="0" name="Rith's Grove"/>
+        <card number="1" price="0" name="River Delta"/>
+        <card number="1" price="0" name="River of Tears"/>
+        <card number="1" price="0" name="Rix Maadi, Dungeon Palace"/>
+        <card number="1" price="0" name="Rocky Tar Pit"/>
+        <card number="1" price="0" name="Rogue's Passage"/>
+        <card number="1" price="0" name="Rootbound Crag"/>
+        <card number="1" price="0" name="Rootwater Depths"/>
+        <card number="1" price="0" name="Rugged Highlands"/>
+        <card number="1" price="0" name="Rugged Prairie"/>
+        <card number="1" price="0" name="Ruins of Oran-Rief"/>
+        <card number="1" price="0" name="Ruins of Trokair"/>
+        <card number="1" price="0" name="Rupture Spire"/>
+        <card number="1" price="0" name="Rushwood Grove"/>
+        <card number="1" price="0" name="Rustic Clachan"/>
+        <card number="1" price="0" name="Sacred Foundry"/>
+        <card number="1" price="0" name="Safe Haven"/>
+        <card number="1" price="0" name="Salt Flats"/>
+        <card number="1" price="0" name="Salt Marsh"/>
+        <card number="1" price="0" name="Saltcrusted Steppe"/>
+        <card number="1" price="0" name="Sanctum of Ugin"/>
+        <card number="1" price="0" name="Sand Silos"/>
+        <card number="1" price="0" name="Sandsteppe Citadel"/>
+        <card number="1" price="0" name="Sandstone Bridge"/>
+        <card number="1" price="0" name="Sandstone Needle"/>
+        <card number="1" price="0" name="Saprazzan Cove"/>
+        <card number="1" price="0" name="Saprazzan Skerry"/>
+        <card number="1" price="0" name="Sapseep Forest"/>
+        <card number="1" price="0" name="Savage Lands"/>
+        <card number="1" price="0" name="Savannah"/>
+        <card number="1" price="0" name="Scabland"/>
+        <card number="1" price="0" name="Scalding Tarn"/>
+        <card number="1" price="0" name="School of the Unseen"/>
+        <card number="1" price="0" name="Scorched Ruins"/>
+        <card number="1" price="0" name="Scoured Barrens"/>
+        <card number="1" price="0" name="Scrubland"/>
+        <card number="1" price="0" name="Scrying Sheets"/>
+        <card number="1" price="0" name="Sea Gate Wreckage"/>
+        <card number="1" price="0" name="Seachrome Coast"/>
+        <card number="1" price="0" name="Seafarer's Quay"/>
+        <card number="1" price="0" name="Seafloor Debris"/>
+        <card number="1" price="0" name="Seaside Citadel"/>
+        <card number="1" price="0" name="Seaside Haven"/>
+        <card number="1" price="0" name="Seat of the Synod"/>
+        <card number="1" price="0" name="Secluded Glen"/>
+        <card number="1" price="0" name="Secluded Steppe"/>
+        <card number="1" price="0" name="Sejiri Refuge"/>
+        <card number="1" price="0" name="Sejiri Steppe"/>
+        <card number="1" price="0" name="Selesnya Guildgate"/>
+        <card number="1" price="0" name="Selesnya Sanctuary"/>
+        <card number="1" price="0" name="Sequestered Stash"/>
+        <card number="1" price="0" name="Seraph Sanctuary"/>
+        <card number="1" price="0" name="Serra's Sanctum"/>
+        <card number="1" price="0" name="Shadowblood Ridge"/>
+        <card number="1" price="0" name="Shambling Vent"/>
+        <card number="1" price="0" name="Shelldock Isle"/>
+        <card number="1" price="0" name="Sheltered Valley"/>
+        <card number="1" price="0" name="Shimmering Grotto"/>
+        <card number="1" price="0" name="Shinka, the Bloodsoaked Keep"/>
+        <card number="1" price="0" name="Shivan Gorge"/>
+        <card number="1" price="0" name="Shivan Oasis"/>
+        <card number="1" price="0" name="Shivan Reef"/>
+        <card number="1" price="0" name="Shizo, Death's Storehouse"/>
+        <card number="1" price="0" name="Shrine of the Forsaken Gods"/>
+        <card number="1" price="0" name="Simic Growth Chamber"/>
+        <card number="1" price="0" name="Simic Guildgate"/>
+        <card number="1" price="0" name="Skarrg, the Rage Pits"/>
+        <card number="1" price="0" name="Skycloud Expanse"/>
+        <card number="1" price="0" name="Skyline Cascade"/>
+        <card number="1" price="0" name="Skyshroud Forest"/>
+        <card number="1" price="0" name="Slayers' Stronghold"/>
+        <card number="1" price="0" name="Slippery Karst"/>
+        <card number="1" price="0" name="Sliver Hive"/>
+        <card number="1" price="0" name="Smoldering Crater"/>
+        <card number="1" price="0" name="Smoldering Marsh"/>
+        <card number="1" price="0" name="Smoldering Spires"/>
+        <card number="1" price="0" name="Snow-Covered Forest"/>
+        <card number="1" price="0" name="Snow-Covered Island"/>
+        <card number="1" price="0" name="Snow-Covered Mountain"/>
+        <card number="1" price="0" name="Snow-Covered Plains"/>
+        <card number="1" price="0" name="Snow-Covered Swamp"/>
+        <card number="1" price="0" name="Soaring Seacliff"/>
+        <card number="1" price="0" name="Soldevi Excavations"/>
+        <card number="1" price="0" name="Sorrow's Path"/>
+        <card number="1" price="0" name="Spawning Bed"/>
+        <card number="1" price="0" name="Spawning Pool"/>
+        <card number="1" price="0" name="Spinerock Knoll"/>
+        <card number="1" price="0" name="Spire of Industry"/>
+        <card number="1" price="0" name="Spirebluff Canal"/>
+        <card number="1" price="0" name="Springjack Pasture"/>
+        <card number="1" price="0" name="Stalking Stones"/>
+        <card number="1" price="0" name="Starlit Sanctum"/>
+        <card number="1" price="0" name="Steam Vents"/>
+        <card number="1" price="0" name="Stensia Bloodhall"/>
+        <card number="1" price="0" name="Stirring Wildwood"/>
+        <card number="1" price="0" name="Stomping Ground"/>
+        <card number="1" price="0" name="Stone Quarry"/>
+        <card number="1" price="0" name="Strip Mine"/>
+        <card number="1" price="0" name="Submerged Boneyard"/>
+        <card number="1" price="0" name="Subterranean Hangar"/>
+        <card number="1" price="0" name="Sulfur Falls"/>
+        <card number="1" price="0" name="Sulfur Vent"/>
+        <card number="1" price="0" name="Sulfurous Springs"/>
+        <card number="1" price="0" name="Sungrass Prairie"/>
+        <card number="1" price="0" name="Sunhome, Fortress of the Legion"/>
+        <card number="1" price="0" name="Sunken Hollow"/>
+        <card number="1" price="0" name="Sunken Ruins"/>
+        <card number="1" price="0" name="Sunpetal Grove"/>
+        <card number="1" price="0" name="Svogthos, the Restless Tomb"/>
+        <card number="1" price="0" name="Svyelunite Temple"/>
+        <card number="1" price="0" name="Swarmyard"/>
+        <card number="1" price="0" name="Swiftwater Cliffs"/>
+        <card number="1" price="0" name="Taiga"/>
+        <card number="1" price="0" name="Tainted Field"/>
+        <card number="1" price="0" name="Tainted Isle"/>
+        <card number="1" price="0" name="Tainted Peak"/>
+        <card number="1" price="0" name="Tainted Wood"/>
+        <card number="1" price="0" name="Tarnished Citadel"/>
+        <card number="1" price="0" name="Tectonic Edge"/>
+        <card number="1" price="0" name="Teetering Peaks"/>
+        <card number="1" price="0" name="Teferi's Isle"/>
+        <card number="1" price="0" name="Temple Garden"/>
+        <card number="1" price="0" name="Temple of Abandon"/>
+        <card number="1" price="0" name="Temple of Deceit"/>
+        <card number="1" price="0" name="Temple of Enlightenment"/>
+        <card number="1" price="0" name="Temple of Epiphany"/>
+        <card number="1" price="0" name="Temple of Malady"/>
+        <card number="1" price="0" name="Temple of Malice"/>
+        <card number="1" price="0" name="Temple of Mystery"/>
+        <card number="1" price="0" name="Temple of Plenty"/>
+        <card number="1" price="0" name="Temple of Silence"/>
+        <card number="1" price="0" name="Temple of the False God"/>
+        <card number="1" price="0" name="Temple of Triumph"/>
+        <card number="1" price="0" name="Tendo Ice Bridge"/>
+        <card number="1" price="0" name="Terminal Moraine"/>
+        <card number="1" price="0" name="Terrain Generator"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Thalakos Lowlands"/>
+        <card number="1" price="0" name="Thawing Glaciers"/>
+        <card number="1" price="0" name="The Tabernacle at Pendrell Vale"/>
+        <card number="1" price="0" name="Thespian's Stage"/>
+        <card number="1" price="0" name="Thornwood Falls"/>
+        <card number="1" price="0" name="Thran Quarry"/>
+        <card number="1" price="0" name="Throne of the High City"/>
+        <card number="1" price="0" name="Timber Gorge"/>
+        <card number="1" price="0" name="Timberland Ruins"/>
+        <card number="1" price="0" name="Timberline Ridge"/>
+        <card number="1" price="0" name="Tinder Farm"/>
+        <card number="1" price="0" name="Tolaria"/>
+        <card number="1" price="0" name="Tolaria West"/>
+        <card number="1" price="0" name="Tolarian Academy"/>
+        <card number="1" price="0" name="Tomb of the Spirit Dragon"/>
+        <card number="1" price="0" name="Tomb of Urami"/>
+        <card number="1" price="0" name="Tower of the Magistrate"/>
+        <card number="1" price="0" name="Tranquil Cove"/>
+        <card number="1" price="0" name="Tranquil Expanse"/>
+        <card number="1" price="0" name="Tranquil Garden"/>
+        <card number="1" price="0" name="Tranquil Thicket"/>
+        <card number="1" price="0" name="Transguild Promenade"/>
+        <card number="1" price="0" name="Tree of Tales"/>
+        <card number="1" price="0" name="Treetop Village"/>
+        <card number="1" price="0" name="Tresserhorn Sinks"/>
+        <card number="1" price="0" name="Treva's Ruins"/>
+        <card number="1" price="0" name="Tropical Island"/>
+        <card number="1" price="0" name="Tundra"/>
+        <card number="1" price="0" name="Turntimber Grove"/>
+        <card number="1" price="0" name="Twilight Mire"/>
+        <card number="1" price="0" name="Underground River"/>
+        <card number="1" price="0" name="Underground Sea"/>
+        <card number="1" price="0" name="Undiscovered Paradise"/>
+        <card number="1" price="0" name="Unholy Citadel"/>
+        <card number="1" price="0" name="Unholy Grotto"/>
+        <card number="1" price="0" name="Unknown Shores"/>
+        <card number="1" price="0" name="Unstable Frontier"/>
+        <card number="1" price="0" name="Untaidake, the Cloud Keeper"/>
+        <card number="1" price="0" name="Urborg"/>
+        <card number="1" price="0" name="Urborg Volcano"/>
+        <card number="1" price="0" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" price="0" name="Urza's Factory"/>
+        <card number="1" price="0" name="Urza's Mine"/>
+        <card number="1" price="0" name="Urza's Power Plant"/>
+        <card number="1" price="0" name="Urza's Tower"/>
+        <card number="1" price="0" name="Valakut, the Molten Pinnacle"/>
+        <card number="1" price="0" name="Vault of the Archangel"/>
+        <card number="1" price="0" name="Vault of Whispers"/>
+        <card number="1" price="0" name="Vec Townships"/>
+        <card number="1" price="0" name="Veldt"/>
+        <card number="1" price="0" name="Verdant Catacombs"/>
+        <card number="1" price="0" name="Vesuva"/>
+        <card number="1" price="0" name="Vitu-Ghazi, the City-Tree"/>
+        <card number="1" price="0" name="Vivid Crag"/>
+        <card number="1" price="0" name="Vivid Creek"/>
+        <card number="1" price="0" name="Vivid Grove"/>
+        <card number="1" price="0" name="Vivid Marsh"/>
+        <card number="1" price="0" name="Vivid Meadow"/>
+        <card number="1" price="0" name="Volcanic Island"/>
+        <card number="1" price="0" name="Volrath's Stronghold"/>
+        <card number="1" price="0" name="Wandering Fumarole"/>
+        <card number="1" price="0" name="Wanderwine Hub"/>
+        <card number="1" price="0" name="Warped Landscape"/>
+        <card number="1" price="0" name="Wasteland"/>
+        <card number="1" price="0" name="Waterveil Cavern"/>
+        <card number="1" price="0" name="Watery Grave"/>
+        <card number="1" price="0" name="Westvale Abbey"/>
+        <card number="1" price="0" name="Windbrisk Heights"/>
+        <card number="1" price="0" name="Winding Canyons"/>
+        <card number="1" price="0" name="Wind-Scarred Crag"/>
+        <card number="1" price="0" name="Windswept Heath"/>
+        <card number="1" price="0" name="Wintermoon Mesa"/>
+        <card number="1" price="0" name="Wirewood Lodge"/>
+        <card number="1" price="0" name="Wizards' School"/>
+        <card number="1" price="0" name="Wooded Bastion"/>
+        <card number="1" price="0" name="Wooded Foothills"/>
+        <card number="1" price="0" name="Woodland Cemetery"/>
+        <card number="1" price="0" name="Woodland Stream"/>
+        <card number="1" price="0" name="Yavimaya Coast"/>
+        <card number="1" price="0" name="Yavimaya Hollow"/>
+        <card number="1" price="0" name="Zoetic Cavern"/>
+        <card number="1" price="0" name="Phyrexian Crusader"/>
+        <card number="1" price="0" name="Soul Warden"/>
+        <card number="1" price="0" name="Essence Warden"/>
+        <card number="1" price="0" name="Soul's Attendant"/>
+        <card number="1" price="0" name="Suture Priest"/>
+        <card number="1" price="0" name="Griselbrand"/>
+        <card number="1" price="0" name="Bloodline Keeper"/>
+        <card number="1" price="0" name="Intangible Virtue"/>
+        <card number="1" price="0" name="Nyx-Fleece Ram"/>
+        <card number="1" price="0" name="Greater Gargadon"/>
+        <card number="1" price="0" name="Sin Prodder"/>
+        <card number="1" price="0" name="Blazing Shoal"/>
+        <card number="1" price="0" name="Lotus Cobra"/>
+        <card number="1" price="0" name="Rampaging Baloths"/>
+        <card number="1" price="0" name="Basilisk Collar"/>
+        <card number="1" price="0" name="Meekstone"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Banlist 1</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Ancestral Recall"/>
+        <card number="1" price="0" name="Balance"/>
+        <card number="1" price="0" name="Bazaar of Baghdad"/>
+        <card number="1" price="0" name="Black Lotus"/>
+        <card number="1" price="0" name="Brainstorm"/>
+        <card number="1" price="0" name="Chalice of the Void"/>
+        <card number="1" price="0" name="Channel"/>
+        <card number="1" price="0" name="Demonic Consultation"/>
+        <card number="1" price="0" name="Demonic Tutor"/>
+        <card number="1" price="0" name="Dig Through Time"/>
+        <card number="1" price="0" name="Earthcraft"/>
+        <card number="1" price="0" name="Fastbond"/>
+        <card number="1" price="0" name="Flash"/>
+        <card number="1" price="0" name="Frantic Search"/>
+        <card number="1" price="0" name="Gaea's Cradle"/>
+        <card number="1" price="0" name="Goblin Recruiter"/>
+        <card number="1" price="0" name="Hermit Druid"/>
+        <card number="1" price="0" name="Imperial Seal"/>
+        <card number="1" price="0" name="Mox Emerald"/>
+        <card number="1" price="0" name="Mox Jet"/>
+        <card number="1" price="0" name="Mox Pearl"/>
+        <card number="1" price="0" name="Mox Ruby"/>
+        <card number="1" price="0" name="Mox Sapphire"/>
+        <card number="1" price="0" name="Library of Alexandria"/>
+        <card number="1" price="0" name="Lion's Eye Diamond"/>
+        <card number="1" price="0" name="Lodestone Golem"/>
+        <card number="1" price="0" name="Mana Crypt"/>
+        <card number="1" price="0" name="Mana Drain"/>
+        <card number="1" price="0" name="Mana Vault"/>
+        <card number="1" price="0" name="Memory Jar"/>
+        <card number="1" price="0" name="Merchant Scroll"/>
+        <card number="1" price="0" name="Mind Twist"/>
+        <card number="1" price="0" name="Mind's Desire"/>
+        <card number="1" price="0" name="Mishra's Workshop"/>
+        <card number="1" price="0" name="Mystical Tutor"/>
+        <card number="1" price="0" name="Necropotence"/>
+        <card number="1" price="0" name="Ponder"/>
+        <card number="1" price="0" name="Skullclamp"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Strip Mine"/>
+        <card number="1" price="0" name="Survival of the Fittest"/>
+        <card number="1" price="0" name="Time Vault"/>
+        <card number="1" price="0" name="Time Walk"/>
+        <card number="1" price="0" name="Timetwister"/>
+        <card number="1" price="0" name="Tinker"/>
+        <card number="1" price="0" name="Tolarian Academy"/>
+        <card number="1" price="0" name="Treasure Cruise"/>
+        <card number="1" price="0" name="Trinisphere"/>
+        <card number="1" price="0" name="Vampiric Tutor"/>
+        <card number="1" price="0" name="Wheel of Fortune"/>
+        <card number="1" price="0" name="Windfall"/>
+        <card number="1" price="0" name="Yawgmoth's Bargain"/>
+        <card number="1" price="0" name="Yawgmoth's Will"/>
+        <card number="1" price="0" name="Athreos, God of Passage"/>
+        <card number="1" price="0" name="Ephara, God of the Polis"/>
+        <card number="1" price="0" name="Erebos, God of the Dead"/>
+        <card number="1" price="0" name="Heliod, God of the Sun"/>
+        <card number="1" price="0" name="Iroas, God of Victory"/>
+        <card number="1" price="0" name="Karametra, God of Harvests"/>
+        <card number="1" price="0" name="Keranos, God of Storms"/>
+        <card number="1" price="0" name="Kruphix, God of Horizons"/>
+        <card number="1" price="0" name="Mogis, God of Slaughter"/>
+        <card number="1" price="0" name="Nylea, God of the Hunt"/>
+        <card number="1" price="0" name="Pharika, God of Affliction"/>
+        <card number="1" price="0" name="Phenax, God of Deception"/>
+        <card number="1" price="0" name="Purphoros, God of the Forge"/>
+        <card number="1" price="0" name="Thassa, God of the Sea"/>
+        <card number="1" price="0" name="Xenagos, God of Revels"/>
+        <card number="1" price="0" name="Goblin Welder"/>
+        <card number="1" price="0" name="Karn Liberated"/>
+        <card number="1" price="0" name="Oath of Druids"/>
+        <card number="1" price="0" name="Phyrexian Obliterator"/>
+        <card number="1" price="0" name="Aether Vial"/>
+    </zone>
+</cockatrice_deck>

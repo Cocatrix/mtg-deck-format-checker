@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Banlist 0</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Amulet of Quoz"/>
+        <card number="1" price="0" name="Bronze Tablet"/>
+        <card number="1" price="0" name="Contract from Below"/>
+        <card number="1" price="0" name="Darkpact"/>
+        <card number="1" price="0" name="Demonic Attorney"/>
+        <card number="1" price="0" name="Jeweled Bird"/>
+        <card number="1" price="0" name="Rebirth"/>
+        <card number="1" price="0" name="Tempest Efreet"/>
+        <card number="1" price="0" name="Timmerian Fiends"/>
+        <card number="1" price="0" name="Arcane Savant"/>
+        <card number="1" price="0" name="Caller of the Untamed"/>
+        <card number="1" price="0" name="Volatile Chimera"/>
+        <card number="1" price="0" name="Aether Searcher"/>
+        <card number="1" price="0" name="Agent of Acquisitions"/>
+        <card number="1" price="0" name="Animus of Predation"/>
+        <card number="1" price="0" name="Archdemon of Paliano"/>
+        <card number="1" price="0" name="Canal Dredger"/>
+        <card number="1" price="0" name="Cogwork Grinder"/>
+        <card number="1" price="0" name="Cogwork Librarian"/>
+        <card number="1" price="0" name="Cogwork Spy"/>
+        <card number="1" price="0" name="Cogwork Tracker"/>
+        <card number="1" price="0" name="Custodi Peacekeeper"/>
+        <card number="1" price="0" name="Deal Broker"/>
+        <card number="1" price="0" name="Garbage Fire"/>
+        <card number="1" price="0" name="Illusionary Informant"/>
+        <card number="1" price="0" name="Leovold's Operative"/>
+        <card number="1" price="0" name="Lore Seeker"/>
+        <card number="1" price="0" name="Lurking Automaton"/>
+        <card number="1" price="0" name="Noble Banneret"/>
+        <card number="1" price="0" name="Paliano Vanguard"/>
+        <card number="1" price="0" name="Paliano, the High City"/>
+        <card number="1" price="0" name="Pyretic Hunter"/>
+        <card number="1" price="0" name="Regicide"/>
+        <card number="1" price="0" name="Smuggler Captain"/>
+        <card number="1" price="0" name="Spire Phantasm"/>
+        <card number="1" price="0" name="Whispergear Sneak"/>
+        <card number="1" price="0" name="Chaos Orb"/>
+        <card number="1" price="0" name="Falling Star"/>
+        <card number="1" price="0" name="Shahrazad"/>
+        <card number="1" price="0" name="Ayesha Tanaka"/>
+        <card number="1" price="0" name="Baton of Morale"/>
+        <card number="1" price="0" name="Battering Ram"/>
+        <card number="1" price="0" name="Beast Walkers"/>
+        <card number="1" price="0" name="Benalish Hero"/>
+        <card number="1" price="0" name="Benalish Infantry"/>
+        <card number="1" price="0" name="Camel"/>
+        <card number="1" price="0" name="Cooperation"/>
+        <card number="1" price="0" name="Dire Wolves"/>
+        <card number="1" price="0" name="Errand of Duty"/>
+        <card number="1" price="0" name="Formation"/>
+        <card number="1" price="0" name="Fortified Area"/>
+        <card number="1" price="0" name="Helm of Chatzuk"/>
+        <card number="1" price="0" name="Icatian Infantry"/>
+        <card number="1" price="0" name="Icatian Phalanx"/>
+        <card number="1" price="0" name="Icatian Skirmishers"/>
+        <card number="1" price="0" name="Kjeldoran Escort"/>
+        <card number="1" price="0" name="Kjeldoran Knight"/>
+        <card number="1" price="0" name="Kjeldoran Phalanx"/>
+        <card number="1" price="0" name="Kjeldoran Skycaptain"/>
+        <card number="1" price="0" name="Kjeldoran Skyknight"/>
+        <card number="1" price="0" name="Kjeldoran Warrior"/>
+        <card number="1" price="0" name="Knights of Thorn"/>
+        <card number="1" price="0" name="Mesa Pegasus"/>
+        <card number="1" price="0" name="Mishra's War Machine"/>
+        <card number="1" price="0" name="Nalathni Dragon"/>
+        <card number="1" price="0" name="Nature's Blessing"/>
+        <card number="1" price="0" name="Noble Elephant"/>
+        <card number="1" price="0" name="Pikemen"/>
+        <card number="1" price="0" name="Shield Bearer"/>
+        <card number="1" price="0" name="Soraya the Falconer"/>
+        <card number="1" price="0" name="Teremko Griffin"/>
+        <card number="1" price="0" name="Timber Wolves"/>
+        <card number="1" price="0" name="Tolaria"/>
+        <card number="1" price="0" name="Urza's Avenger"/>
+        <card number="1" price="0" name="Urza's Engine"/>
+        <card number="1" price="0" name="Volunteer Reserves"/>
+        <card number="1" price="0" name="Wall of Caltrops"/>
+        <card number="1" price="0" name="Wall of Shields"/>
+        <card number="1" price="0" name="War Elephant"/>
+    </zone>
+</cockatrice_deck>

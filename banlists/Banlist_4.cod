@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Banlist 4</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Arena of the Ancients"/>
+        <card number="1" price="0" name="Empress Galina"/>
+        <card number="1" price="0" name="Hero's Demise"/>
+        <card number="1" price="0" name="Karakas"/>
+        <card number="1" price="0" name="Minamo, School at Water's Edge"/>
+        <card number="1" price="0" name="Shizo, Death's Storehouse"/>
+        <card number="1" price="0" name="Willow Satyr"/>
+        <card number="1" price="0" name="Avacyn, Angel of Hope"/>
+        <card number="1" price="0" name="Edric, Spymaster of Trest"/>
+        <card number="1" price="0" name="Ezuri, Renegade Leader"/>
+        <card number="1" price="0" name="Fumiko the Lowblood"/>
+        <card number="1" price="0" name="Geth, Lord of the Vault"/>
+        <card number="1" price="0" name="Serra Ascendant"/>
+        <card number="1" price="0" name="Grand Arbiter Augustin IV"/>
+        <card number="1" price="0" name="Griselbrand"/>
+        <card number="1" price="0" name="Heartless Hidetsugu"/>
+        <card number="10" price="0" name="Hope of Ghirapur"/>
+    </zone>
+</cockatrice_deck>
